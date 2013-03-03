@@ -1,0 +1,16 @@
+{
+  "name": "retina",
+  "repo": "fonzie/retina",
+  "description": "Mixin for targeting high-resolution devices",
+  "author": "Anthony Short",
+  "main": "retina.scss",
+  "version": "0.0.1",
+  "dependencies": {},
+  "remotes": [
+    "http://fonzie.herokuapp.com/packages"
+  ],
+  "files": [
+    "retina.scss"
+  ],
+  "license": "MIT"
+}
