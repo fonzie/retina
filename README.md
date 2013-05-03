@@ -5,14 +5,14 @@ Mixin for targeting high-resolution devices.
 ## Installation
 
 ```
-fonzie install retina
+bower install fonzie-retina
 ```
 
 ## Usage
 
 ```scss
 .logo {
-  @include retina {
+  @include fz-retina {
     background-image: url('logo-big.png');
   }
 }

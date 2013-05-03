@@ -1,0 +1,8 @@
+{
+  "name": "fonzie-retina",
+  "description": "Mixin for targeting high-resolution devices",
+  "author": "Anthony Short",
+  "main": "index.scss",
+  "version": "0.1.0",
+  "license": "MIT"
+}
